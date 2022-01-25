@@ -19,12 +19,12 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
+      "description": "Fill your Full name. By default it is MARRK User",
       "value": "ιɾσɳ",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "description": "Set Custom Alive Message When entering .alive Or .marrk  Command.",
       "value": "ɱαɾɾƙႦσƚ† is Online",
       "required": false
     },
