@@ -11,26 +11,26 @@
 <p align="center">
 <a href="https://github.com/marrk85/MARRKBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/marrk85/MARRKBOT?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/marrk85/MARRKBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/marrk85/MARRKBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/MARRK-OS/MARRKBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/MARRK-OS/MARRKBOT?color=success" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/MARRK-OS/MARRKBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/marrk85/MARRKBOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/marrk85/MARRKBOT?color=success" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/marrk85/MARRKBOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/MARRK-OS/MARRKBOT" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/marrk85/MARRKBOT" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/Marrk_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/MARRK-OS/MARRKBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://github.com/marrk85/MARRKBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/MARRK-OS/MARRKBOT/network/members"><img src="https://img.shields.io/github/forks/MARRK-OS/MARRKBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/MARRK-OS/MARRKBOT/stargazers"><img src="https://img.shields.io/github/stars/MARRK-OS/MARRKBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MARRK-OS/MARRKBOT"></a><p align="left"><a href="https://github.com/MARRK-OS/MARRKBOT?"></a>
+    <a href="https://github.com/marrk85/MARRKBOT/network/members"><img src="https://img.shields.io/github/forks/MARRK-OS/MARRKBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/MARRK-OS/MARRKBOT/stargazers"><img src="https://img.shields.io/github/stars/MARRK-OS/MARRKBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MARRK-OS/MARRKBOT"></a><p align="left"><a href="https://github.com/MARRK-OS/MARRKBOT?"></a>
 
 ------
 ## Telegram 🏪
