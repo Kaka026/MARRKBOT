@@ -122,7 +122,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/marrk85/MARRKUSERBOT/MarrkBot/Marrktring.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/marrk85/MARRKUSERBOT/MarrkBot/Marrktring.py && python3 MarrkString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
@@ -146,7 +146,7 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+MARRK-OS
 
 Poject [MARRK](https://github.com/maark85/MARRKBOT) is free software: you can redistribute it and/or modify
 
