@@ -81,7 +81,7 @@
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start MarrkBot By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./MARRKBOT/start.sh`
 
 ---------
 
@@ -122,7 +122,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/marrk85/MARRKUSERBOT/MarrkBot/LegendString.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/marrk85/MARRKUSERBOT/MarrkBot/Marrktring.py && python3 LegendString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
