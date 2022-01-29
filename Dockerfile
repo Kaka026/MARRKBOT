@@ -1,5 +1,5 @@
 #Repo Clonning ⚡♥️
-RUN git clone https://github.com/marrk85/MARRKUSERBOT.git /root/userbot
+RUN git clone https://github.com/marrk85/MARRKBOT.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
